@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RegistrationTestNegative" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-25T18:17:49" hostname="DJANACER" time="30.236">
+  <properties/>
+  <testcase name="registrationNotSuccsess" classname="RegistrationTestNegative" time="21.954"/>
+  <testcase name="registrationNotSuccsessTwo" classname="RegistrationTestNegative" time="7.715"/>
+  <system-out><![CDATA[True
+True
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

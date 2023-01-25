@@ -12,14 +12,6 @@ import java.net.URL;
 public class AppiumConfig {
     public static AppiumDriver<MobileElement> driver;
 
-//    {
-//  "platformName": "Android",
-//  "deviceName": "Nex",
-//  "platformVersion": "8.0",
-//  "appPackage": "com.sheygam.contactapp",
-//  "appActivity": ".SplashActivity"
-//}
-
     @BeforeSuite
     public void setUp() throws MalformedURLException {
         DesiredCapabilities capabilities = new DesiredCapabilities();
